@@ -1,0 +1,11 @@
+INFORMACION SOBRE LAS PAGINAS MOSTRADAS
+
+---------index.html---------------
+Es la pagina principal la cual tiene un enlace hacia la segunda
+
+
+
+--------pagina2.html-------------
+Consta de un parrafo ademas de tener las etiquetas configuradas
+para el lenguaje en español ademas de la codificación especial
+la cual es utf-8
